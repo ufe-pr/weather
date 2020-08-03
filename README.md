@@ -1,10 +1,9 @@
-# weather
+# Weather
 
-A new Flutter project.
+A Flutter weather app.
+Download APK [here](https://api.codemagic.io/artifacts/7513f401-d1c8-4802-8a03-d6890ae9d58a/9679338c-948d-4dc5-932a-546c27cf0a8d/app-release.apk).
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
